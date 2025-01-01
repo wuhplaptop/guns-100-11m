@@ -1,0 +1,51 @@
+This model was created using Rolo created by Wuhp
+
+Licensing Agreement
+
+1. Overview
+
+This licensing agreement governs the use of any models created or uploaded using this application ("the Models"). By using or distributing the Models, you agree to the terms outlined herein.
+
+2. Usage Restrictions
+
+Non-Commercial Use Only: The Models may not be used for any commercial purposes. They are intended solely for personal, educational, or research use.
+
+Attribution Required: You must provide appropriate credit to the tools and frameworks that were used in the development of the Models.
+
+3. Credits
+
+The following tools were instrumental in creating the Models. Proper attribution must be given in any use or distribution of the Models:
+
+YOLO by Ultralytics: https://github.com/ultralytics/yolov5
+
+Roboflow: https://roboflow.com/
+
+Matplotlib: https://matplotlib.org/
+
+Streamlit: https://streamlit.io/
+
+4. Restrictions on Redistribution
+
+Redistribution of the Models is allowed under the following conditions:
+
+The Models are distributed with this license agreement intact.
+
+No modifications may remove or obscure the non-commercial usage clause.
+
+Attribution to the original tools used remains visible and accessible.
+
+5. Liability and Disclaimer
+
+The Models are provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability or fitness for a particular purpose.
+
+The authors of the Models and the developers of this application shall not be held liable for any claims, damages, or other liabilities arising from the use or misuse of the Models.
+
+6. Amendments
+
+This license may be amended or updated as required by the application developers. Users are encouraged to check for the latest version of the license.
+
+7. Acceptance of Terms
+
+By using the Models, you indicate that you have read, understood, and agreed to the terms outlined in this Licensing Agreement.
+
+For questions or further information, please contact the application developers.
